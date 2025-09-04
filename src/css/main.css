@@ -1,1 +1,29 @@
 /* Your CSS here. */
+
+img {width : 150px;}
+.myDiv {
+    text-align: center;
+}
+
+.otherDiv {
+    text-align: left;
+}
+
+body {
+    margin: 0;
+    
+}
+
+.flexContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 100vh;
+}
+
+.divWrap {
+    padding: 20px;
+    width : 700px;
+    height : 500px;
+    background-color : lightpink;
+}
